@@ -1,4 +1,4 @@
-## This function creates a special "matrix", which is really a list containing a function to: 
+## This function creates a special "matrix", which is really a list containing four functions to: 
 # 1. set the value of the matrix
 # 2. get the value of the matrix
 # 3. set the value of inverse of the matrix
